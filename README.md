@@ -1,5 +1,8 @@
 About the Author
+
+
 My name is Sunday Ekundayo, and I’m a new Data Analyst focused on transforming complex datasets into actionable intelligence. I specialize in identifying performance gaps, uncovering operational risks, and presenting insights in a way that stakeholders can easily understand and act on. This project demonstrates my ability to analyze business performance,  and communicate findings clearly and professionally.
+
 I am currently open and available for Data Analyst opportunities, where I can contribute my growing skills in data cleaning, analysis, visualization, and reporting to help organizations make smarter, data‑driven decisions.
 
 
