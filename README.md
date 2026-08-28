@@ -9,12 +9,17 @@ I am currently open and available for Data Analyst opportunities, where I can co
 
 
 
+Healthcare Portfolio Performance & Clinical Operations Analysis
+
+
+
 A comprehensive Healthcare Portfolio Analytics Project built from 10,000 patient records to evaluate chronic disease trends, high‑risk clinical indicators, demographic patterns, medication demand, and patient retention. This project transforms raw clinical data into actionable insights that support care coordination, operational planning, pharmacy forecasting, and patient engagement strategies
 
 
-Healthcare Portfolio Performance & Clinical Operations Report
+
 
 Executive Summary 
+
 
 This report presents a comprehensive analysis of our 10,000‑patient healthcare portfolio, focusing on chronic disease patterns, clinical risk exposure, demographic distribution, medication demand, and patient retention. The findings highlight where operational improvements, targeted outreach, and resource realignment can strengthen care delivery, reduce clinical risk, and improve patient engagement. The insights serve as a strategic guide for clinical leaders, operational managers, and decision‑makers responsible for quality, efficiency, and patient outcomes.
 
