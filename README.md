@@ -1,3 +1,6 @@
+A comprehensive Healthcare Portfolio Analytics Project built from 10,000 patient records to evaluate chronic disease trends, high‑risk clinical indicators, demographic patterns, medication demand, and patient retention. This project transforms raw clinical data into actionable insights that support care coordination, operational planning, pharmacy forecasting, and patient engagement strategies
+
+
 Healthcare Portfolio Performance & Clinical Operations Report
 
 Executive Summary 
