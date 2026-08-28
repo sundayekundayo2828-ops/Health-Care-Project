@@ -3,6 +3,7 @@ About the Author
 
 My name is Sunday Ekundayo, and I’m a new Data Analyst focused on transforming complex datasets into actionable intelligence. I specialize in identifying performance gaps, uncovering operational risks, and presenting insights in a way that stakeholders can easily understand and act on. This project demonstrates my ability to analyze business performance,  and communicate findings clearly and professionally.
 
+
 I am currently open and available for Data Analyst opportunities, where I can contribute my growing skills in data cleaning, analysis, visualization, and reporting to help organizations make smarter, data‑driven decisions.
 
 
@@ -19,6 +20,7 @@ A comprehensive Healthcare Portfolio Analytics Project built from 10,000 patient
 
 
 Executive Summary 
+
 
 
 This report presents a comprehensive analysis of our 10,000‑patient healthcare portfolio, focusing on chronic disease patterns, clinical risk exposure, demographic distribution, medication demand, and patient retention. The findings highlight where operational improvements, targeted outreach, and resource realignment can strengthen care delivery, reduce clinical risk, and improve patient engagement. The insights serve as a strategic guide for clinical leaders, operational managers, and decision‑makers responsible for quality, efficiency, and patient outcomes.
